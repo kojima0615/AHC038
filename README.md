@@ -9,3 +9,4 @@
 ## コード
 
 - [貪欲](src/greedy.cpp)
+- [ビームサーチ](src/beam.cpp)
